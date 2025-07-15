@@ -12,7 +12,6 @@ This repository contains an end-to-end data analytics pipeline for **AlphaCare I
 - 🔄 Data Version Control (DVC) Integration  
 - 🧠 Statistical Modeling (Task-3 onward)
 
----
 
 ## 🎯 Objectives
 
@@ -21,7 +20,7 @@ This repository contains an end-to-end data analytics pipeline for **AlphaCare I
 - Establish a **reproducible pipeline** using Git and DVC.
 - Support compliance, auditability, and traceability in insurance analytics workflows.
 
----
+
 
 ## 📊 Task 1: Exploratory Data Analysis (EDA)
 
@@ -86,3 +85,4 @@ Task-4: Predictive Modeling
 Claim severity prediction (RMSE, R²)
 
 Premium optimization using feature-based pricing
+
